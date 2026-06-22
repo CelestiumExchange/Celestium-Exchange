@@ -1,4 +1,4 @@
-# 🌌 Alchemy_Verse MVP
+# 🌌 Alchemy Verse MVP
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
